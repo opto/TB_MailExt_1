@@ -1,0 +1,25 @@
+[
+  {
+    "namespace": "myapi",
+    "functions": [
+      {
+        "name": "create_UI",
+        "type": "function",
+        "async": true,
+        "parameters": []
+      },
+      {
+        "name": "tag_backup",
+        "type": "function",
+        "async": true,
+        "parameters": []
+      },
+      {
+        "name": "tag_restore",
+        "type": "function",
+        "async": true,
+        "parameters": []
+      }
+    ]
+  }
+]
